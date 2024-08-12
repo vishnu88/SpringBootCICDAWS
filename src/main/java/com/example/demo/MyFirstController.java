@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyFirstController {
     @GetMapping(path = "/getName")
     String getName(){
-        return  "Vishnu Karam chand Gandhi";
+        return  "Vishnu Karam chand Gandhi2";
     }
 
 }
